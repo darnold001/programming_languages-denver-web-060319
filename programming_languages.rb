@@ -7,4 +7,5 @@ languages.each do |key, value|
 #   revised_language[key] = key
   # your code here
 end
+revised_language
 end
