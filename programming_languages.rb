@@ -9,8 +9,6 @@ languages.each do |key, value|
 else
   revised_language[lan] = type
   revised_language[lan][:style] = [key]
-#   revised_language[key] = key
-  # your code here
 end
 end
 end
